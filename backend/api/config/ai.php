@@ -1,6 +1,6 @@
 <?php
 // Groq AI Configuration
-define('GROQ_API_KEY', '');
+//define('GROQ_API_KEY', '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');
 define('GROQ_API_URL', 'https://api.groq.com/openai/v1/chat/completions');
 define('GROQ_MODEL', 'llama-3.3-70b-versatile');
 
