@@ -1,6 +1,8 @@
 <?php
 // Groq AI Configuration
 
+// add goq ai details from the project_study_giude.md
+define('GROQ_API_KEY', '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');
 define('GROQ_API_URL', 'https://api.groq.com/openai/v1/chat/completions');
 define('GROQ_MODEL', 'llama-3.3-70b-versatile');
 

@@ -1,5 +1,11 @@
 # EduPortal — Complete Full-Stack Project Study Guide
 
+
+define('GROQ_API_KEY', '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');
+define('GROQ_API_URL', 'https://api.groq.com/openai/v1/chat/completions');
+define('GROQ_MODEL', 'llama-3.3-70b-versatile');
+
+
 > **Stack:** React + Vite (Frontend) | PHP (Backend) | MySQL (Database) | XAMPP | Groq AI (LLM)
 > **Purpose:** Web Technology Course Submission + Full-Stack Interview Prep
 
